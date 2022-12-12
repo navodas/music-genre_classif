@@ -10,6 +10,7 @@ In order to execute the code you need to create below files.
 1.client_info.txt - This contains API keys  to connec to Spotify web API.
 
 Client ID : xxxxxxxxxxxxxxxxxxx
+
 Client Secret : xxxxxxxxxxxxxxxxxxx
 
 2. database.ini - This contains database connection string if you want to write the collected data to a Postgress DB.
